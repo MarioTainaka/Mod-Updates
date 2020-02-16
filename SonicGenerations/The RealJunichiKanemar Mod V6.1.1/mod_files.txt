@@ -1,3 +1,4 @@
+add mod_version.ini
 add mod.ini
 add disk/bb3/voices/Japanese/SonicVoice.ar.00
 add disk/bb3/voices/Japanese/SonicVoice.arl
