@@ -1,3 +1,7 @@
+## Sonic Colors Gameplay Sounds Alpha 3.0.4 Update
+-	Fixed Randomized Jumpboard voices, now the voices should switch properly
+-	Add Pulley/Upreal VO
+
 ## Sonic Colors Gameplay Sounds Alpha 3.0.3 Update
 
 -	Fixed an issue with Crashes To The Desktop AGAIN. No Seriously I mean it.
