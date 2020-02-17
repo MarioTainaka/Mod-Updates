@@ -1,3 +1,10 @@
+## Sonic Colors Gameplay Sounds Alpha 3.0.3 Update
+
+-	Fixed an issue with Crashes To The Desktop AGAIN. No Seriously I mean it.
+
+
+
+
 ## Sonic Colors Gameplay Sounds Alpha 3.0.2 Update
 
 -	Fixed an issue with Crashes To The Desktop thanks to the Sonic.ar.00 Archieve being 0kb
