@@ -1,6 +1,6 @@
 ## Sonic Colors Gameplay Sounds Alpha 3.0.6 Update
 
--	Redid the Max Speed Jumpboard voice from scratch, they're actually two real voices instead of two sounds edits over the ramp sound.
+-	Redid the Max Speed Jumpboard voice from scratch, they're actually two real voices now instead of two sounds edits over the ramp sound.
 -	Fixed Playback Probabilty of Ramp and Upreal/Puelly voices. One would repeat a bit to much
 -	Navi Test (Super Alpha still crashes the game alot)
 
