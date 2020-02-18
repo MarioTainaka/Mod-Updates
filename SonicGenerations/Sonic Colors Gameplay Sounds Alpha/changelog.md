@@ -1,3 +1,7 @@
+## Sonic Colors Gameplay Sounds Alpha 3.0.5 Update
+-	Redid the entire base voice mod from scratch with orignial WII files for better sound quality across the board.
+-	Adjusted Jumpboard Max Speed Volume
+
 ## Sonic Colors Gameplay Sounds Alpha 3.0.4 Update
 -	Fixed Randomized Jumpboard voices, now the voices should switch properly
 -	Add Pulley/Upreal VO
