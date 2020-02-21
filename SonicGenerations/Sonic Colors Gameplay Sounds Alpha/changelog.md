@@ -1,3 +1,7 @@
+## Preperation For Public Release
+
+-	All Files will be deleted from your hard drive in preperation for the Public Release. Thank You For Beta Testing.
+
 ## Sonic Colors Gameplay Sounds Alpha 3.0.6 Update
 
 -	Redid the Max Speed Jumpboard voice from scratch, they're actually two real voices now instead of two sounds edits over the ramp sound.
