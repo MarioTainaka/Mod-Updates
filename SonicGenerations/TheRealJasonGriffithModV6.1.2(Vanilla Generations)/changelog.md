@@ -1,4 +1,7 @@
 
+## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.5
+=	Ported The Bobsleigh from Sonic Unleashed Over to Sonic Generations (For Use only with the vanilla Sonic Generations Version Of The Mod)
+
 ## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.4
 
 - Ported the Bobsleigh Sound from Sonic Unleashed Over To Sonic Generations, with the correct pitches for diffrent speeds. 

@@ -5,4 +5,10 @@ add disk/bb/cmn200.ar.00
 add disk/bb/cmn200.arl
 add disk/bb2/EnemyCommon.ar.00
 add disk/bb2/EnemyCommon.arl
+add disk/bb3/#Application.ar.00
+add disk/bb3/#Application.arl
+add disk/bb3/SonicBoard.ar.00
+add disk/bb3/SonicBoard.arl
+add disk/bb3/SonicHoloska.ar.00
+add disk/bb3/SonicHoloska.arl
 
