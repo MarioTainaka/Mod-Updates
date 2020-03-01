@@ -11,4 +11,11 @@ add disk/bb3/SonicBoard.ar.00
 add disk/bb3/SonicBoard.arl
 add disk/bb3/SonicHoloska.ar.00
 add disk/bb3/SonicHoloska.arl
+add disk/bb/bne.ar.00
+add disk/bb/bne.ar.01
+add disk/bb/bne.ar.02
+add disk/bb/bne.ar.03
+add disk/bb/bne.ar.04
+add disk/bb/bne.ar.05
+add disk/bb/bne.arl
 

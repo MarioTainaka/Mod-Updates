@@ -1,4 +1,10 @@
 
+
+## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.6
+-	Fixed an oversight which would cause the quickstep VO and Sonic Unleashed Ramp SFX to go missing in the EGG Dragoon Boss Fight (Vanilla Version Only)
+
+
+
 ## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.5
 - Ported The Bobsleigh from Sonic Unleashed Over to Sonic Generations (For Use only with the vanilla Sonic Generations Version Of The Mod)
 
