@@ -1,4 +1,6 @@
+## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.7
 
+-	Got rid of of the bloat from the previous update and created a more effecient way of managing the files that need to be modified. Sorry for the inconvenience.
 
 ## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.6
 -	Fixed an oversight which would cause the quickstep VO and Sonic Unleashed Ramp SFX to go missing in the EGG Dragoon Boss Fight (Vanilla Version Only)
