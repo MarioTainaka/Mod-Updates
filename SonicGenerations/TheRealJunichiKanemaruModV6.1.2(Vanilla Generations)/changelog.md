@@ -1,3 +1,8 @@
+
+## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.8
+
+-	Changed the Startup logo from the Hedgehog Engine Logo to the SEGA logo when using the vanilla version of the mod.
+
 ## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.7
 
 -	Got rid of of the bloat from the previous update and created a more effecient way of managing the files that need to be modified. Sorry for the inconvenience.
