@@ -1,3 +1,8 @@
+## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.9
+-Ported Sonic Unleashed Dashring Sounds.
+
+-Ported Common Unleashed Objects To Generations With Propper Materials.
+
 
 ## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.8
 
