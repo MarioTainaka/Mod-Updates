@@ -18,5 +18,3 @@ delete disk/bb/bne.ar.03
 delete disk/bb/bne.ar.04
 delete disk/bb/bne.ar.05
 add disk/bb/bne.arl
-add disk/bb/ActionCommon.ar.00
-add disk/bb/ActionCommon.arl

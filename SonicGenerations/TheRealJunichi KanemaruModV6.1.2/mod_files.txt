@@ -5,5 +5,4 @@ add disk/bb/cmn200.ar.00
 add disk/bb/cmn200.arl
 add disk/bb2/EnemyCommon.ar.00
 add disk/bb2/EnemyCommon.arl
-add disk/bb/ActionCommon.ar.00
-add disk/bb/ActionCommon.arl
+
