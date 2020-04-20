@@ -1,5 +1,5 @@
 ## Shadow The Hedgehog (2005) Voice Mod 2.0.1
--Removed AR Encryption to decrease ram usage by 600mb on low end machines.
+-Removed AR Encryption in order to decrease RAM usage by 600mb on low end machines.
 
 
 ## Shadow The Hedgehog (2005) Voice Mod 2.0
