@@ -1,5 +1,5 @@
 ## Sonic Colors Gameplay Sounds 3.0.8
--Removed AR Encryption in order to decrease RAM usage by 600mb on low end machines.
+- Removed AR Encryption in order to decrease RAM usage by 600mb on low end machines.
 
 
 ## Sonic Colors Gameplay Sounds 3.0.7
