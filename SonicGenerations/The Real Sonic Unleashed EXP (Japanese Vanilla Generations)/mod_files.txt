@@ -26,7 +26,7 @@ add disk/bb2/EnemyEFighterAfrica.ar.00
 add disk/bb2/EnemyEFighterAfrica.arl
 add disk/bb2/EnemyEFighterChina.ar.00
 add disk/bb2/EnemyEFighterChina.arl
-add dibk/bb2/EnemyEFighterHoloska.ar.00
+add disk/bb2/EnemyEFighterHoloska.ar.00
 add disk/bb2/EnemyEFighterHoloska.arl
 add disk/bb2/EnemyEFighterMykonos.ar.00
 add disk/bb2/EnemyEFighterMykonos.arl
@@ -48,3 +48,6 @@ add disk/bb3/voices/Japanese/SonicVoice.ar.00
 add disk/bb3/voices/Japanese/SonicVoice.arl
 add disk/bb3/#Application.ar.00
 add disk/bb3/#Application.arl
+add disk/bb/bne.ar.00
+add disk/bb/bne.arl
+delete dibk/bb2/EnemyEFighterHoloska.ar.00

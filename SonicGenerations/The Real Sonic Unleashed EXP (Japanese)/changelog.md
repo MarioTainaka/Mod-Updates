@@ -1,3 +1,10 @@
+## The Real Sonic Unleashed EXP (Japanese) Version 1.0.3
+
+- Fixed a bug which could cause a potential crash with the Holoska EGG Fighters
+
+- Cleaned up folders which would cause Issue #1
+
+
 ## The Real Sonic Unleashed EXP (Japanese) Version 1.0.2
 
 -Ported Custom Unleashed Materials for Objects And Enemies By PTKickAss
