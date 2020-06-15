@@ -41,3 +41,4 @@ add disk/bb2/omochao.arl
 add disk/bb3/voices/English/SonicVoice.ar.00
 add disk/bb3/voices/English/SonicVoice.arl
 delete dibk/bb2/EnemyEFighterHoloska.ar.00
+delete dibk

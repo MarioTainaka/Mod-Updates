@@ -51,3 +51,4 @@ add disk/bb3/#Application.arl
 add disk/bb/bne.ar.00
 add disk/bb/bne.arl
 delete dibk/bb2/EnemyEFighterHoloska.ar.00
+delete dibk
