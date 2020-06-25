@@ -1,15 +1,19 @@
+## Sonic Colors Gameplay Sounds 3.0.9 ( Japanese Generations Model) Vanilla
 
-## Sonic Colors Gameplay Sounds 3.0.8
+- Fixed Pulley/Upreel Repeating VO Bug.
+
+
+## Sonic Colors Gameplay Sounds 3.0.8 ( Japanese Generations Model) Vanilla
 - Removed AR Encryption in order to decrease RAM usage by 600mb on low end machines.
 
-## Sonic Colors Gameplay Sounds 3.0.7
-- Added additional DRM to prevent stealing
-- Minor CSB Code Opitimizaiton
+## Sonic Colors Gameplay Sounds 3.0.7 ( Japanese Generations Model) Vanilla
+- Added additional DRM to prevent stealing.
+- Minor CSB Code Opitimizaiton.
 
 
 
 
 
-## Sonic Colors Gameplay Sounds 3.0.6
+## Sonic Colors Gameplay Sounds 3.0.6 ( Japanese Generations Model) Vanilla
 
--	Initial Release Of The Mod	
+-	Initial Release Of The Mod.	
