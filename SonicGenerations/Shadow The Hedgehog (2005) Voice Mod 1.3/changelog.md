@@ -1,3 +1,7 @@
+## Shadow The Hedgehog (2005) Voice Mod 2.0.2
+
+- Removed CSB DRM. All CSB files are now unlocked.
+
 ## Shadow The Hedgehog (2005) Voice Mod 2.0.1
 -Removed AR Encryption in order to decrease RAM usage by 600mb on low end machines.
 
