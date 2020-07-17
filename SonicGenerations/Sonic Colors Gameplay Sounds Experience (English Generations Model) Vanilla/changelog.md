@@ -1,3 +1,9 @@
+## Sonic Colors Gameplay Sounds 4.0 (English Generations Model) Vanilla
+
+- Removed CSB DRM, all CSB files are now unlocked.
+
+
+
 ## Sonic Colors Gameplay Sounds 3.0.9 (English Generations Model) Vanilla
 
 - Fixed Pulley/Upreel Repeating VO Bug.

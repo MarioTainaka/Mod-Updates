@@ -1,3 +1,9 @@
+## Sonic Colors Gameplay Sounds ( English Unleashed Model) 4.0
+
+- Removed CSB DRM, all CSB files are now unlocked.
+
+- Fixed Pulley/Upreel Repeating VO Bug.
+
 ## Sonic Colors Gameplay Sounds ( English Unleashed Model) 3.0.9
 
 - Fixed Pulley/Upreel Repeating VO Bug.

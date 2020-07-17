@@ -1,3 +1,7 @@
+## Sonic Colors Gameplay Sounds ( Japanese Generations Model) 4.0
+
+- Removed CSB DRM, all CSB files are now unlocked.
+
 
 ## Sonic Colors Gameplay Sounds ( Japanese Generations Model) 3.0.9
 - Fixed Pulley/Upreel Repeating VO Bug.
