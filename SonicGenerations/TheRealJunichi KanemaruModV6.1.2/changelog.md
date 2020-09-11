@@ -1,3 +1,11 @@
+## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.2
+
+- Added UW_Switch(Directional Audio Panning Based On The Camera) To Quickstep Voices.
+
+- Made Volume Adjusment To Quickstep Voices.
+
+
+
 
 ## The Real Jason Griffith/Jun'ichi Kanemaru Mod v6.1.4
 
