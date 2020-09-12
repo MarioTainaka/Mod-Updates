@@ -1,3 +1,9 @@
+## The Real Sonic Unleashed EXP (English) Version 1.0.6
+- Added UW_Switch(Directional Audio Panning Based On The Camera) To Quickstep Voices.
+
+- Made Volume Adjusment To Quickstep Voices.
+
+- Optimized Unleashed Materials.
 
 ## The Real Sonic Unleashed EXP (English) Version 1.0.4
 
