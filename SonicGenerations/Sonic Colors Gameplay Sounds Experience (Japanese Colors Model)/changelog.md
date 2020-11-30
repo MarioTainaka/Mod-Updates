@@ -1,8 +1,8 @@
 ## Sonic Colors Gameplay Sounds 4.3 (Japanese Colors Model)
 
-- Added UW_SWitch (Directional Audio Panning) to ramp VO and Upreel VO
+- 	Added UW_SWitch (Directional Audio Panning) to ramp VO and Upreel VO
 
-- Added startup movie to the mod for vanilla versions (prerequisites are no longer required)
+- 	Added startup movie to the mod for vanilla versions (prerequisites are no longer required)
 
  
 
