@@ -8,3 +8,5 @@ add disk/bb3/voices/English/SonicVoice.ar.00
 add disk/bb3/voices/English/SonicVoice.arl
 add disk/bb3/#Application.ar.00
 add disk/bb3/#Application.arl
+add movie/HedgehogEngine_logo.sfd
+add movie/sega_logo_us.sfd

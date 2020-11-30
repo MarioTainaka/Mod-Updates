@@ -1,3 +1,11 @@
+## Sonic Colors Gameplay Sounds 4.3 (English Generations Model)
+
+- Added UW_SWitch (Directional Audio Panning) to ramp VO and Upreel VO
+
+- Added startup movie to the mod for vanilla versions (prerequisites are no longer required)
+
+- Fixed a bug where Jason Griffith Could still be heard in Version 4.0 
+
 ## Sonic Colors Gameplay Sounds 4.0 (English Generations Model)
 
 - Removed CSB DRM, all CSB files are now unlocked.

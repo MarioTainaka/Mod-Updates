@@ -1,3 +1,10 @@
+## Sonic Colors Gameplay Sounds 4.3 ( Japanese Generations Model) Vanilla
+
+- Added UW_SWitch (Directional Audio Panning) to ramp VO and Upreel VO
+
+- Added startup movie to the mod for vanilla versions (prerequisites are no longer required)
+
+
 ## Sonic Colors Gameplay Sounds 4.0 ( Japanese Generations Model) Vanilla
 
 - Removed CSB DRM, all CSB files are now unlocked.
