@@ -18,4 +18,6 @@ delete disk/bb/bne.ar.03
 delete disk/bb/bne.ar.04
 delete disk/bb/bne.ar.05
 add disk/bb/bne.arl
+movie/HedgehogEngine_logo.sfd
+movie/sega_logo_us.sfd
 
