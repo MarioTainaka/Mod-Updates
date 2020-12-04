@@ -1,3 +1,8 @@
+## The Real Jason Griffith Mod v6.3.2 (Vanilla Generations)
+
+- Fixed downloading of missing files for the previous update.
+
+
 ## The Real Jason Griffith Mod v6.3.1 (Vanilla Generations)
 
 - Added startup movie to the mod for vanilla versions (prerequisites are no longer required)

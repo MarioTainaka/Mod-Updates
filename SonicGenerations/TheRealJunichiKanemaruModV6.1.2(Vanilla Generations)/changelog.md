@@ -1,6 +1,11 @@
+
+## The Real Jun'ichi Kanemaru Mod v6.2.2 (Vanilla Generations)
+
+- Fixed downloading of missing files for the previous update.
+
 ## The Real Jun'ichi Kanemaru Mod v6.2.1 (Vanilla Generations)
 
--	- Added startup movie to the mod for vanilla versions (prerequisites are no longer required)
+- Added startup movie to the mod for vanilla versions (prerequisites are no longer required)
 
 
 
