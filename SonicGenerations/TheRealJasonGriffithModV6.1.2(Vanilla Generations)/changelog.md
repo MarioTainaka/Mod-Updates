@@ -1,3 +1,7 @@
+## The Real Jason Griffith Mod v6.3.3 (Vanilla Generations)
+
+- Fixed a bug with grabbing movie files (Hopefully)
+
 ## The Real Jason Griffith Mod v6.3.2 (Vanilla Generations)
 
 - Fixed downloading of missing files for the previous update.
