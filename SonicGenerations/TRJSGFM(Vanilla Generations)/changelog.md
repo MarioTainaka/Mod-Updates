@@ -1,3 +1,8 @@
+## The Real Jason Griffith Mod v6.4.1 (Vanilla Generations)
+
+- Cleanup of AR Files.
+
+
 ## The Real Jason Griffith Mod v6.3.4 (Vanilla Generations)
 
 Attempt #2 at fixing the movie files grabbing bug.
