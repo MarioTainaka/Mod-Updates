@@ -1,3 +1,7 @@
+## Sonic And The Secret Rings Voice Mod Version 1.2 (Vanilla Generations)
+
+- Added Sonic And Secret Rings Result Music For All Ranks.
+
 ## Sonic And The Secret Rings Voice Mod Version 1.1.2 (Vanilla Generations)
 
 - Added startup movie to the mod for vanilla versions (prerequisites are no longer required)

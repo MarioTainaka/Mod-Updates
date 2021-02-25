@@ -12,3 +12,5 @@ add disk/bb3/Sonic.ar.02
 add disk/bb3/Sonic.arl
 add movie/HedgehogEngine_logo.sfd
 add movie/sega_logo_us.sfd
+add Sound/SNG19_JNG.cpk
+add Sound/SNG19_JNG.csb
