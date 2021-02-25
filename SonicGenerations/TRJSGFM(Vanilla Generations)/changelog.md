@@ -1,3 +1,7 @@
+## The Real Jason Griffith Mod v6.4.2 (Vanilla Generations)
+
+- Fixed downloading of missing files for the previous update.
+
 ## The Real Jason Griffith Mod v6.4.1 (Vanilla Generations)
 
 - Cleanup of AR Files.

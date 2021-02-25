@@ -1,3 +1,7 @@
+## The Real Jun'ichi Kanemaru Mod v6.2.3 (Vanilla Generations)
+
+- Added Sonic And Secret Rings Result Music For All Ranks.
+
 
 ## The Real Jun'ichi Kanemaru Mod v6.2.2 (Vanilla Generations)
 
