@@ -1,8 +1,8 @@
-##Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.0
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.0
 
-- Initial Release
+- Initial Release.
 
 
-##Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.1
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.1
 
 - Day 1 Update.
