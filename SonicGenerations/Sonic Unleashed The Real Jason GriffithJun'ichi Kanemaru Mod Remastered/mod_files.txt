@@ -19,3 +19,6 @@ add core_jpnVan\disk\bb\cmn200.ar.00
 add core_jpnVan\disk\bb\cmn200.arl
 add core_jpnVan\disk\bb3\voices\Japanese\SonicVoice.ar.00
 add core_jpnVan\disk\bb3\voices\Japanese\SonicVoice.arl
+add ConfigSchema.json
+delete core_orb\disk\bb2\EnemyCommon.ar.00
+delete core_orb\disk\bb2\EnemyCommon.arl
