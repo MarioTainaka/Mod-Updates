@@ -1,0 +1,186 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Voice Language",
+               "Description": [
+                  "Determines voice langauge and if a stage mod will be used or not",
+               ],
+               "Type": "VoiceEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_eng"
+            },
+            
+           
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Unleashed Enemy Materials",
+               "Description": [
+                  "Enable Sonic Unleashed Materials for enemies and Omochao (Recomended to be used with the Unleashed Project) ",
+               ],
+               "Type": "EnemyEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_su_enem_mats"
+            },
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Unleashed Model",
+               "Description": [
+                  "Enable Sonic Unleashed Model,along with Sonic Unleashed footstep SFX and Bobsleigh (Might Cause issues in Sonic Generations stages such as City Escape)",
+               ],
+               "Type": "ModelEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_su_model"
+            },
+            {
+               "Name": "IncludeDir3",
+               "DisplayName": "Unleashed Spring/ Ramp SFX Fix (Unleashed Project ONLY)",
+               "Description": [
+                  "Enable Sonic Unleashed Jumpboard and Spring SFX Fix for Unleashed Project stages which use the Classic Sonic spring",
+               ],
+               "Type": "SpringEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+            {
+               "Name": "IncludeDir4",
+               "DisplayName": "Unleashed Physics",
+               "Description": [
+                  "Enable Sonic Unleashed Physics, which enable a longer homing attack, airboost and dash (Not recomended for Sonic Generations stages as those stages were not designed around these physics",
+               ],
+               "Type": "PhysicsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+
+            {
+               "Name": "IncludeDir5",
+               "DisplayName": "Debug Boot Mode",
+               "Description": [
+                  "Enable Debug Boot Mode, this fixes misssing sound effects such as the quickstep sound (Not recomended when playing the game with stage mods)",
+               ],
+               "Type": "DebugEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_debug"
+            },
+         ]
+      }
+   ],
+   "Enums": {
+      "VoiceEnum": [
+         {
+            "DisplayName": "English",
+            "Value": "core_eng",
+            "Description": [
+               "Use English Voice Over",
+            ]
+         },
+         {
+            "DisplayName": "Japanese",
+            "Value": "core_jpn",
+            "Description": [
+               "Use Japanese Voice Over",
+            ]
+         },
+         
+      ],
+      
+     
+      "EnemyEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_su_enem_mats",
+            "Description": [
+               "Disable Sonic Unleashed Materials for enemies and Omochao",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Sonic Unleashed Materials for enemies and Omochao Default Sonic Generations materials will be used",
+            ]
+         },
+      ],
+      "ModelEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_su_model",
+            "Description": [
+               "Use Sonic Unleashed Model By TwilightZoney",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Use Default Sonic Generations Model",
+            ]
+         },
+      ],
+      "SpringEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_up_spring",
+            "Description": [
+               "Enable SFX Fix (Might Break Some Stages in The Unleashed Project)",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable SFX Fix (Might Break Some Stages in The Unleashed Project)",
+            ]
+         },
+      ],
+
+
+      "DebugEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_debug",
+            "Description": [
+               "Enable Debug  Boot Mode. (Not recomended when playing the game with stage mods)",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Debug Boot Mode and start in vanilla state. (Certain Sound Effects might go missing",
+            ]
+         },
+      ],
+      "PhysicsEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_su_phy",
+            "Description": [
+               "Enable Sonic Unleashed Physics",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Sonic Unleashed Physics, default Generations physics will be used in all stages",
+            ]
+         },
+
+
+         
+      ],
+   },
+   "IniFile": "mod.ini"
+}
