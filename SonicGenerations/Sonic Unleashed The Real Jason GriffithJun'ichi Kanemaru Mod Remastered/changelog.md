@@ -1,3 +1,8 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.4
+
+- Fixed Updater Issues Again. Please redownload the main mod and install this update. Hedge Mod Manager has been rather buggy lately for some reason.
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.3
 
 - Fixed Updater Issues.
