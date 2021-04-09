@@ -27,6 +27,18 @@
                "MaxValue":null,
                "DefaultValue":"core_bobsleigh"
             },
+
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Debug Boot Mode",
+               "Description": [
+                  "Enable Debug Boot Mode, this fixes misssing sound effects such as the quickstep sound (Not recomended when playing the game with stage mods)",
+               ],
+               "Type": "DebugEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_debug"
+            },
 			
          ]
       }
@@ -34,33 +46,20 @@
    "Enums":{
       "VoiceEnum":[
          {
-            "DisplayName":"English Voice",
+            "DisplayName":"English",
             "Value":"core_eng",
             "Description":[
                "Use English Voice Over (for use with stage mods)",
             ]
          },
 		 {
-            "DisplayName":"Japanese Voice",
+            "DisplayName":"Japanese",
             "Value":"core_jpn",
             "Description":[
                "Use Japanese Voice Over (for use with stage mods)",
             ]
          },
-		 {
-            "DisplayName":"Englsih Vanilla Generations",
-            "Value":"core_engVan",
-            "Description":[
-               "Use English Voice Over (used when playing vanilla Sonic Generations)",
-            ]
-         },
-		 {
-            "DisplayName":"Japanese Vanilla Generations",
-            "Value":"core_jpnVan",
-            "Description":[
-               "Use Japanese Voice Over (used when playing vanilla Sonic Generations)",
-            ]
-         },
+		 
       ],
 	  "BobsleighEnum":[
 		 {
@@ -75,6 +74,23 @@
             "Value":"core_dummy",
             "Description":[
                "Disable Sonic Unleashed Bobsleigh",
+            ]
+         },
+      ],
+
+      "DebugEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_debug",
+            "Description": [
+               "Enable Debug  Boot Mode. (Not recomended when playing the game with stage mods)",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Debug Boot Mode and start in vanilla state. (Certain Sound Effects might go missing",
             ]
          },
       ],
