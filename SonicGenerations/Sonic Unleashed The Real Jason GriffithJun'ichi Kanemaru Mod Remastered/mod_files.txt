@@ -1,3 +1,5 @@
+add mod.ini
+add ConfigSchema.json
 add core_eng\disk\bb\cmn200.ar.00
 add core_eng\disk\bb\cmn200.arl
 add core_eng\disk\bb3\voices\English\SonicVoice.ar.00
@@ -25,5 +27,4 @@ delete core_debug\disk\bb\cmn200.arl
 add core_debug\disk\bb3\#Application.ar.00
 add core_debug\disk\bb3\#Application.arl
 add core_debug\movie\sega_logo_us.sfd
-add ConfigSchema.json
-add mod.ini
+
