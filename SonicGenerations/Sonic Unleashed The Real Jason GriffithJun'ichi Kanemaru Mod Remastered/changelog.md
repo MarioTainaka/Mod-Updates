@@ -1,4 +1,9 @@
 
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.6
+
+- Final Updater Fix
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.5
 
 - Repackaged Mod
