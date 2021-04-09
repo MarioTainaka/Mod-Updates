@@ -1,3 +1,9 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.2.1
+
+- Miscellaneous Code Changes.
+
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.2
 
 - Removed Vanilla Versions From the Config Menu and added a "Debug Boot Mode" option which does the same thing as the vanilla versions of the mod.
