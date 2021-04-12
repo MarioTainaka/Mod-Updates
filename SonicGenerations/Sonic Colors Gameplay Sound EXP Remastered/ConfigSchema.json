@@ -1,0 +1,104 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Voice Language",
+               "Description": [
+                  "Determines voice language. Please adjust your audio language at the title screen in order for changes to apply",
+               ],
+               "Type": "VoiceEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_eng"
+            },
+            
+           
+           
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Sonic Model",
+               "Description": [
+                  "Determine The model to use, both models include Sonic Colors collision Sounds ported from Sonic Colors to Generations",
+               ],
+               "Type": "ModelEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_cs"
+            },
+            
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Debug Boot Mode",
+               "Description": [
+                  "Enable Debug Boot Mode, this fixes misssing sound effects such as the quickstep sound (Not recomended when playing the game with stage mods)",
+               ],
+               "Type": "DebugEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_debug"
+            },
+         ]
+      }
+   ],
+   "Enums": {
+      "VoiceEnum": [
+         {
+            "DisplayName": "English",
+            "Value": "core_eng",
+            "Description": [
+               "Use English Voice Over",
+            ]
+         },
+         {
+            "DisplayName": "Japanese",
+            "Value": "core_jpn",
+            "Description": [
+               "Use Japanese Voice Over",
+            ]
+         },
+         
+        
+      ],
+      
+     
+      
+      "ModelEnum": [
+         {
+            "DisplayName": "Sonic Colors Model",
+            "Value": "core_cs",
+            "Description": [
+               "Use Sonic Colors Model by BrianuuSonic",
+            ]
+         },
+         {
+            "DisplayName": "Default Sonic Generations Model",
+            "Value": "core_default",
+            "Description": [
+               "Use Default Sonic Generations Model provided by Sonic Team",
+            ]
+         },
+      ],
+      
+      "DebugEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_debug",
+            "Description": [
+               "Enable Debug  Boot Mode. (Not recomended when playing the game with stage mods)",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Debug Boot Mode and start in vanilla state. (Certain Sound Effects might go missing",
+            ]
+         },
+      ],
+   },
+   "IniFile": "mod.ini"
+}

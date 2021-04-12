@@ -1,0 +1,15 @@
+add mod.ini
+add ConfigSchema.json
+add core_cs\disk\bb3\Sonic.ar.00
+add core_cs\disk\bb3\Sonic.arl
+add core_default\Sonic.ar.00
+add core_default\Sonic.ar.01
+add core_default\Sonic.arl
+add core_eng\disk\bb\cmn200.ar.00
+add core_eng\disk\bb\cmn200.arl
+add core_eng\disk\bb3\voices\English\SonicVoice.ar.00
+add core_eng\disk\bb3\voices\English\SonicVoice.arl
+add core_jpn\disk\bb\cmn200.ar.00
+add core_jpn\disk\bb\cmn200.arl
+add core_jpn\disk\bb3\voices\Japanese\SonicVoice.ar.00
+add core_jpn\disk\bb3\voices\Japanese\SonicVoice.arl
