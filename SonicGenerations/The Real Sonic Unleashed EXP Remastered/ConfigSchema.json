@@ -8,7 +8,7 @@
                "Name": "IncludeDir0",
                "DisplayName": "Voice Language",
                "Description": [
-                  "Determines voice langauge and if a stage mod will be used or not",
+                  "Determines voice langauge",
                ],
                "Type": "VoiceEnum",
                "MinValue": null,
