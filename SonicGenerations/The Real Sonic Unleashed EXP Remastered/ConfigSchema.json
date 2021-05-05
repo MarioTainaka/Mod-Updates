@@ -73,6 +73,18 @@
                "MaxValue": null,
                "DefaultValue": "core_debug"
             },
+
+            {
+               "Name": "IncludeDir6",
+               "DisplayName": "Unleashed Result Music",
+               "Description": [
+                  "Enable Sonic Unleashed Result music on the Results Screen",
+               ],
+               "Type": "BGMEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_BGM"
+            },
          ]
       }
    ],
@@ -146,6 +158,24 @@
       ],
 
 
+      
+
+      "BGMEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_BGM",
+            "Description": [
+               "Enable Sonic Unleashed result screen music",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Sonic Unleashed result music",
+            ]
+         },
+      ],
       "DebugEnum": [
          {
             "DisplayName": "Enable",
