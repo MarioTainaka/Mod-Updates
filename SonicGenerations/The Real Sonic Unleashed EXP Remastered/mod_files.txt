@@ -1,5 +1,6 @@
 add mod.ini
 add ConfigSchema.json
+add Rankvo.dll
 add core_BGM\Sound\SNG19_JNG.cpk
 add core_BGM\Sound\SNG19_JNG.csb
 add core_eng\disk\bb\cmn100.ar.00
