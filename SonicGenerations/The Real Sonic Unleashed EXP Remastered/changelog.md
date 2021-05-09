@@ -1,3 +1,8 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.4
+
+- Final Crash Fix
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.3.1
 
 - Potential Fix For Crashes caused by the previous update.
