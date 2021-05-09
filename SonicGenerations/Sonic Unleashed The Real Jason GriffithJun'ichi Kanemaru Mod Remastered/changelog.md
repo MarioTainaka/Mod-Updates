@@ -1,3 +1,8 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.7
+
+- Added Rank Quotes for S-D Ranks. (Original code forked from brianuuuSonic's Sonic 06 Defenitive EXP)
+
+
 
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.6
 
