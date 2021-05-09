@@ -1,3 +1,7 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.3.1
+
+- Potential Fix For Crashes caused by the previous update.
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.3
 
 - Added Rank Quotes for S-D Ranks. (Original code forked from brianuuuSonic's Sonic 06 Defenitive EXP)
