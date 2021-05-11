@@ -1,3 +1,6 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.5
+- Fixed a bug whiched cause 1-Up icons to become invisible
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.4
 
 - Final Crash Fix

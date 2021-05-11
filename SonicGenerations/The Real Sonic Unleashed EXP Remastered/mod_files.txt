@@ -6,7 +6,7 @@ add core_eng\disk\bb\cmn100.ar.01
 add core_eng\disk\bb\cmn100.ar.02
 add core_eng\disk\bb\cmn100.arl
 add core_eng\disk\bb\cmn200.ar.00
-add core_eng\disk\bb\cmn200.ar.01
+delete core_eng\disk\bb\cmn200.ar.01
 add core_eng\disk\bb\cmn200.arl
 add core_eng\disk\bb3\voices\English\SonicVoice.ar.00
 add core_eng\disk\bb3\voices\English\SonicVoice.arl
@@ -15,7 +15,7 @@ add core_jpn\disk\bb\cmn100.ar.01
 add core_jpn\disk\bb\cmn100.ar.02
 add core_jpn\disk\bb\cmn100.arl
 add core_jpn\disk\bb\cmn200.ar.00
-add core_jpn\disk\bb\cmn200.ar.01
+delete core_jpn\disk\bb\cmn200.ar.01
 add core_jpn\disk\bb\cmn200.arl
 add core_jpn\disk\bb3\voices\Japanese\SonicVoice.ar.00
 add core_jpn\disk\bb3\voices\Japanese\SonicVoice.arl
