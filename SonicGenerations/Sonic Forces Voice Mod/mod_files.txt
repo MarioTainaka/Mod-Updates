@@ -1,0 +1,13 @@
+add disk\bb3\voices\English\SonicVoice.ar.00
+add disk\bb3\voices\English\SonicVoice.arl
+add disk\bb3\voices\French\SonicVoice.ar.00
+add disk\bb3\voices\French\SonicVoice.arl
+add disk\bb3\voices\German\SonicVoice.ar.00
+add disk\bb3\voices\German\SonicVoice.arl
+add disk\bb3\voices\Italian\SonicVoice.ar.00
+add disk\bb3\voices\Italian\SonicVoice.arl
+add disk\bb3\voices\Japanese\SonicVoice.ar.00
+add disk\bb3\voices\Japanese\SonicVoice.arl
+add disk\bb3\voices\Spanish\SonicVoice.ar.00
+add disk\bb3\voices\Spanish\SonicVoice.arl
+add mod.ini
