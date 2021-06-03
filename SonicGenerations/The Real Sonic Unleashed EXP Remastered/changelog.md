@@ -1,3 +1,8 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.6
+
+- Fixed missing shader for thornpannel when using Sonic Unleashed Materials.
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.5
 - Fixed a bug which caused 1-Up icons to become invisible
 
