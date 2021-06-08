@@ -1,3 +1,8 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.7
+
+- Added compatibility for the Sonic Unleashed Drift Mod by Skyth
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.6
 
 - Fixed missing shader for thornpannel when using Sonic Unleashed Materials.
