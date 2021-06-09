@@ -1,6 +1,13 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.8
+
+- Added Sonic Unleashed Model Materials by Iulian204.
+
+- Fixed some issues related to using the Sonic Unleashed Drift Mod by Skyth.
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.7
 
-- Added compatibility for the Sonic Unleashed Drift Mod by Skyth
+- Added compatibility for the Sonic Unleashed Drift Mod by Skyth.
 
 
 ## The Real Sonic Unleashed EXP Remastered Version 1.6
@@ -9,7 +16,7 @@
 
 
 ## The Real Sonic Unleashed EXP Remastered Version 1.5
-- Fixed a bug which caused 1-Up icons to become invisible
+- Fixed a bug which caused 1-Up icons to become invisible.
 
 ## The Real Sonic Unleashed EXP Remastered Version 1.4
 

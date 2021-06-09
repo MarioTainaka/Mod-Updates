@@ -21,5 +21,11 @@ add core_jpn\disk\bb3\voices\Japanese\SonicVoice.ar.00
 add core_jpn\disk\bb3\voices\Japanese\SonicVoice.arl
 add core_su_phy\disk\bb3\#Sonic.ar.00
 add core_su_phy\disk\bb3\#Sonic.arl
+add core_su_model\disk\bb3\Sonic.ar.00
+add core_su_model\disk\bb3\Sonic.ar.01
+add core_su_model\disk\bb3\Sonic.ar.02
+add core_su_model\disk\bb3\Sonic.ar.03
+add core_su_model\disk\bb3\Sonic.ar.04
+add core_su_model\disk\bb3\Sonic.arl
 add mod.ini
 add ConfigSchema.json
