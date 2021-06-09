@@ -1,3 +1,8 @@
+## The Real Sonic Unleashed EXP Remastered Version 1.8.1
+
+- Potential fix for fixing missing thornpannel material.
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.8
 
 - Added Sonic Unleashed Model Materials by Iulian204.
