@@ -1,4 +1,4 @@
-## The Real Sonic Unleashed EXP Remastered Version 2.8
+## The Real Sonic Unleashed EXP Remastered Version 2.0
 
 - Added support for Navigation/ Lightdash Sound mod by BrianuuSonic. 
 
