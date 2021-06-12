@@ -27,5 +27,9 @@ add core_su_model\disk\bb3\Sonic.ar.02
 add core_su_model\disk\bb3\Sonic.ar.03
 add core_su_model\disk\bb3\Sonic.ar.04
 add core_su_model\disk\bb3\Sonic.arl
+add core_up_spring\disk\bb3\SpringSFXOff.ar.00
+add core_up_spring\disk\bb3\SpringSFXOff.arl
+add core_up_spring\disk\bb3\SpringSFXOn.ar.00
+add core_up_spring\disk\bb3\SpringSFXOn.arl
 add mod.ini
 add ConfigSchema.json

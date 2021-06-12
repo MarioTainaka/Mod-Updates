@@ -1,3 +1,16 @@
+## The Real Sonic Unleashed EXP Remastered Version 2.8
+
+- Added support for Navigation/ Lightdash Sound mod by BrianuuSonic. 
+
+- Drift Voices/ 4-way Cannon Voices are now supported for both langauges.
+
+- Renamed Unleashed Project Spring Fix to Unleashed Project Compatibility Fixes.
+
+- Fixed missing thorn panel materials in Jungle Joyride (Enable Unleashed Project Compatibility Fixes.
+
+- Removed CSB Anti-Tamper.
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 1.8.1
 
 - Potential fix for fixing missing thornpannel material.

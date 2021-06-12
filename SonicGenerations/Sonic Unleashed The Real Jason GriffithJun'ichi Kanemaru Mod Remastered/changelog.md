@@ -1,3 +1,15 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 2.0
+
+- Added support for Navigation/ Lightdash Sound mod by BrianuuSonic. 
+
+- Drift Voices/ 4-way Cannon Voices are now supported for both langauges.
+
+- Fixed missing thorn panel materials in Jungle Joyride (Enable Unleashed Project Compatibility Fixes.
+
+- Removed CSB Anti-Tamper.
+
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 1.7
 
 - Added Rank Quotes for S-D Ranks. (Original code forked from brianuuuSonic's Sonic 06 Defenitive EXP)

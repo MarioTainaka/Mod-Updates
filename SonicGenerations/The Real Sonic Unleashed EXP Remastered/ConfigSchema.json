@@ -41,9 +41,9 @@
             },
             {
                "Name": "IncludeDir3",
-               "DisplayName": "Unleashed Spring/ Ramp SFX Fix (Unleashed Project ONLY)",
+               "DisplayName": "Unleashed Project Compatibility Fixes",
                "Description": [
-                  "Enable Sonic Unleashed Jumpboard and Spring SFX Fix for Unleashed Project stages which use the Classic Sonic spring",
+                  "Enable compatiblity fixes for Unleashed Project which fix missing shaders and add support for Unleashed Materials. (Only use this option when playing the Unleashed Project)",
                ],
                "Type": "SpringEnum",
                "MinValue": null,
@@ -145,14 +145,14 @@
             "DisplayName": "Enable",
             "Value": "core_up_spring",
             "Description": [
-               "Enable SFX Fix (Might Break Some Stages in The Unleashed Project)",
+               "Enable Unleashed Project compatibility fixes (Only enable when playing the Unleashed Project)",
             ]
          },
          {
             "DisplayName": "Disable",
             "Value": "core_dummy",
             "Description": [
-               "Disable SFX Fix (Might Break Some Stages in The Unleashed Project)",
+               "Disable Unleashed Project compatibility fixes",
             ]
          },
       ],
