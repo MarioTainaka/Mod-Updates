@@ -1,3 +1,8 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 2.0.1
+
+- Day One Patch to fix new features.
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 2.0
 
 - Added support for Navigation/ Lightdash Sound mod by BrianuuSonic. 
