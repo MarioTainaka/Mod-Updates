@@ -1,4 +1,4 @@
-## The Real Sonic Unleashed EXP Remastered Version 2.0.1
+## The Real Sonic Unleashed EXP Remastered Version 2.0.3
 
 - Day One Patch to fix new features.
 
