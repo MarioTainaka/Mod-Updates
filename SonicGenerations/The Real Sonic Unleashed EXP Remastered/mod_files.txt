@@ -32,5 +32,8 @@ add core_up_spring\disk\bb3\SpringSFXOff.ar.00
 add core_up_spring\disk\bb3\SpringSFXOff.arl
 add core_up_spring\disk\bb3\SpringSFXOn.ar.00
 add core_up_spring\disk\bb3\SpringSFXOn.arl
+add core_debug\disk\bb3\#Application.ar.00
+add core_debug\disk\bb3\#Application.arl
+add core_debug\movie\sega_logo_us.sfd
 add mod.ini
 add ConfigSchema.json
