@@ -1,3 +1,11 @@
+## The Real Sonic Unleashed EXP Remastered Version 2.0.4
+
+- Added Online Updater back to mod ini. 
+
+- Updating to Hedge Mod Manager 7.4.4 is highly recomended.
+
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 2.0.3
 
 - Day One Patch to fix new features.
