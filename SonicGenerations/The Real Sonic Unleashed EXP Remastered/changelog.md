@@ -1,3 +1,9 @@
+## The Real Sonic Unleashed EXP Remastered Version 2.0.5
+
+- Added Anti-Tamper to CSB archives.
+
+- Added Anti-Tamper to archives.
+
 ## The Real Sonic Unleashed EXP Remastered Version 2.0.4
 
 - Added Online Updater back to mod ini. 
