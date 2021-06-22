@@ -1,3 +1,8 @@
+## The Real Sonic Unleashed EXP Remastered Version 2.0.6
+
+- Added support for E-Rank Generations by BrianuuSonic.
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 2.0.5
 
 - Added Anti-Tamper to CSB archives.
