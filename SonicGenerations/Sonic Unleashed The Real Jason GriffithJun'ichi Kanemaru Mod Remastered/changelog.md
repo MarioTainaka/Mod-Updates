@@ -1,3 +1,7 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 2.0.2
+
+- Added support for E-Rank Generations by BrianuuSonic.
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 2.0.1
 
 - Day One Patch to fix new features.
