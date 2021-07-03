@@ -2,7 +2,11 @@
 
 - Removed Bobsleigh Option
   
-  This option can be found in the Real Unleashed EXP
+  This option can be found in the Real Sonic Unleashed EXP.
+  
+ - Removed Sonic Unleashed Objects
+ 
+   These Objects can still be found in The Real Sonic Unleashed EXP
  
  - Fixed any crashes related to Anti-Tamper solution.
  
