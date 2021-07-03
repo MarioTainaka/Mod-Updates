@@ -18,14 +18,14 @@
             },
 			{
                "Name":"IncludeDir1",
-               "DisplayName":"Bobsleigh",
+               "DisplayName":"Boss Quickstep Voice Over Language",
                "Description":[
-                  "Enable or disable Sonic Unleashed bobsleigh",
+                  "Restores missing quickstep VO during certain boss fights, using debug boot mode is highly recomended",
                ],
-               "Type":"BobsleighEnum",
+               "Type":"BossEnum",
                "MinValue":null,
                "MaxValue":null,
-               "DefaultValue":"core_bobsleigh"
+               "DefaultValue":"core_boss_eng"
             },
 
             {
@@ -49,33 +49,43 @@
             "DisplayName":"English",
             "Value":"core_eng",
             "Description":[
-               "Use English Voice Over (for use with stage mods)",
+               "Use English Voice Over",
             ]
          },
 		 {
             "DisplayName":"Japanese",
             "Value":"core_jpn",
             "Description":[
-               "Use Japanese Voice Over (for use with stage mods)",
+               "Use Japanese Voice Over",
             ]
          },
 		 
       ],
-	  "BobsleighEnum":[
+	  "BossEnum":[
+
+      {
+         "DisplayName":"Disable",
+         "Value":"core_dummy",
+         "Description":[
+            "Disable",
+         ]
+      },
 		 {
-            "DisplayName":"Enable",
-            "Value":"core_bobsleigh",
+            "DisplayName":"English",
+            "Value":"core_boss_eng",
             "Description":[
-               "Enable Sonic Unleashed bobsleigh",
+               "Use English Voice Over during boss battles",
             ]
          },
 		 {
-            "DisplayName":"Disable",
-            "Value":"core_dummy",
+            "DisplayName":"Japanese",
+            "Value":"core_boss_jpn",
             "Description":[
-               "Disable Sonic Unleashed Bobsleigh",
+               "Use Japanese Voice Over during boss battles",
             ]
          },
+
+         
       ],
 
       "DebugEnum": [

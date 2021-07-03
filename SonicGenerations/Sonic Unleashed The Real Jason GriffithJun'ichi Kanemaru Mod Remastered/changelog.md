@@ -1,3 +1,16 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 4.0
+
+- Removed Bobsleigh Option
+  
+  This option can be found in the Real Unleashed EXP
+ 
+ - Fixed any crashes related to Anti-Tamper solution.
+ 
+ - Added a Boss Quickstep Voice Fix for boss battles such as the EGG Dragoon.
+ 
+ - Updated Rank Voice code.
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 2.0.2
 
 - Added support for E-Rank Generations by BrianuuSonic.
