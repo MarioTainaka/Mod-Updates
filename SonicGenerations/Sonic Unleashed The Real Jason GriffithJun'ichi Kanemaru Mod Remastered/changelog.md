@@ -1,3 +1,13 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 4.1
+
+- Added QTE SFX from Sonic Unleashed for tricks.
+
+- Fixed Boss Quickstep Fix not working sometimes.
+
+- Cleanup.
+
+- Removed all Anti-Tamper.
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 4.0
 
 - Removed Bobsleigh Option
