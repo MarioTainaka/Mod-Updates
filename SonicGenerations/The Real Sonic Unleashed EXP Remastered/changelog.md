@@ -1,3 +1,9 @@
+## The Real Sonic Unleashed EXP Remastered Version 2.0.7
+
+- Added QTE SFX from Sonic Unleashed for tricks.
+
+- Removed all Anti-Tamper.
+
 ## The Real Sonic Unleashed EXP Remastered Version 2.0.6
 
 - Added support for E-Rank Generations by BrianuuSonic.
