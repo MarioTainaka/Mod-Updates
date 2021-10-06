@@ -1,0 +1,13 @@
+add mod.ini
+add PCCriPak\sound\all\PC\en\se_voice_tails_new_hints_E.acb
+add PCCriPak\sound\all\PC\en\se_voice_tails_new_hints_E.awb
+add PCCriPak\sound\all\PC\ja\se_voice_tails_new_hints_J.acb
+add PCCriPak\sound\all\PC\ja\se_voice_tails_new_hints_J.awb
+add PCCriPak\sound\all\PC\es\se_voice_tails_new_hints_S.acb
+add PCCriPak\sound\all\PC\es\se_voice_tails_new_hints_S.awb
+add PCCriPak\sound\all\PC\fr\se_voice_tails_new_hints_F.acb
+add PCCriPak\sound\all\PC\fr\se_voice_tails_new_hints_F.awb
+add PCCriPak\sound\all\PC\it\se_voice_tails_new_hints_i.acb
+add PCCriPak\sound\all\PC\it\se_voice_tails_new_hints_i.awb
+
+
