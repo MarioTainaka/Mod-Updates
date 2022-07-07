@@ -1,0 +1,50 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Options",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"Voice Mode",
+               "Description":[
+                  "Select between Sonic Colors and Sonic Colors Ultimate Voice Modes.",
+               ],
+               "Type":"VoiceEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"2010"
+            },
+			
+
+            
+			
+         ]
+      }
+   ],
+   "Enums":{
+      "VoiceEnum":[
+         {
+            "DisplayName":"Sonic Colors Ultimate",
+            "Value":"Rainbow",
+            "Description":[
+               "Use the voices from Sonic Colors Ultimate which accidently reimpliment un-used voice clips.",
+            ]
+         },
+		 {
+            "DisplayName":"Original",
+            "Value":"2010",
+            "Description":[
+               "Use the original voices from Sonic Colors.",
+            ]
+         },
+		 
+      ],
+	  
+
+     
+	  
+   },
+   "IniFile":"mod.ini"
+}
