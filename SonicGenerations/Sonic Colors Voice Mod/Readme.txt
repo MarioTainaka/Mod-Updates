@@ -16,7 +16,7 @@ Voice Modes
 This mod features "Voice Modes" Which can be picked between via the Hedge Mod Manager Configuration Menu by right clicking on the mod. With these you can pick between Sonic Colors and Sonic Colors Ultimate.
 
 
-Original: This will present the voices as they were in the Original Wii release in 2010. Some voices were muted Via code by Sonic Team instead of in the sound archive. This is 100% accurate to Sonic Team their vision.
+Sonic Colors: This will present the voices as they were in the Original Wii release in 2010. Some voices were muted Via code by Sonic Team instead of in the sound archive. This is 100% accurate to Sonic Team their vision.
 
 Sonic Colors Ultimate: This will present the voices as they are in Sonic Colors Ultimate. When porting the game to modern platforms Blind Squirel accidently reimplimented the un-used voice clips by outright forgetting to mute them in the voice archive or via code like Sonic Team intended. This results in grunts that sound out of place compared to the ones used in the original in some spots. 
 

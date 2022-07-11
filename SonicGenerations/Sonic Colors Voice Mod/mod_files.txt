@@ -9,3 +9,4 @@ add Rainbow\disk\bb3\Voices\Japanese\SonicVoice.arl
 add ColorsVoice.dll
 add ColorsVoiceConfig.json
 add mod.ini
+add Readme.txt
