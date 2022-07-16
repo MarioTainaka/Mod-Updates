@@ -1,3 +1,8 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 5.0
+
+- Fixed some server issues, if the previous update failed update to this version.
+
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 4.2
 
 - 	Updated to support the Sonic Unleashed HUD mod by PTKickass
