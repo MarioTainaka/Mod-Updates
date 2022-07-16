@@ -1,3 +1,9 @@
+## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 4.2
+
+- 	Updated to support the Sonic Unleashed HUD mod by PTKickass
+
+-  	Removed Boss Quickstep Voice Fix Option in order to prep for future update.
+
 ## Sonic Unleashed The Real Jason GriffithJun'ichi Kanemaru Mod Remastered Version 4.1
 
 - Added QTE SFX from Sonic Unleashed for tricks.

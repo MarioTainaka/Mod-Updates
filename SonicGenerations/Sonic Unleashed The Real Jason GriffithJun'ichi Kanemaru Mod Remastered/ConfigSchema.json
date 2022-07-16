@@ -16,20 +16,10 @@
                "MaxValue":null,
                "DefaultValue":"core_eng"
             },
-			{
-               "Name":"IncludeDir1",
-               "DisplayName":"Boss Quickstep Voice Over Language",
-               "Description":[
-                  "Restores missing quickstep VO during certain boss fights, using debug boot mode is highly recomended",
-               ],
-               "Type":"BossEnum",
-               "MinValue":null,
-               "MaxValue":null,
-               "DefaultValue":"core_boss_eng"
-            },
+			
 
             {
-               "Name": "IncludeDir2",
+               "Name": "IncludeDir1",
                "DisplayName": "Debug Boot Mode",
                "Description": [
                   "Enable Debug Boot Mode, this fixes misssing sound effects such as the quickstep sound (Not recomended when playing the game with stage mods)",
@@ -61,32 +51,10 @@
          },
 		 
       ],
-	  "BossEnum":[
-
-      {
-         "DisplayName":"Disable",
-         "Value":"core_dummy",
-         "Description":[
-            "Disable",
-         ]
-      },
-		 {
-            "DisplayName":"English",
-            "Value":"core_boss_eng",
-            "Description":[
-               "Use English Voice Over during boss battles",
-            ]
-         },
-		 {
-            "DisplayName":"Japanese",
-            "Value":"core_boss_jpn",
-            "Description":[
-               "Use Japanese Voice Over during boss battles",
-            ]
-         },
+	 
 
          
-      ],
+      
 
       "DebugEnum": [
          {
