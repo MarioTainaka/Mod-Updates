@@ -1,7 +1,7 @@
-add Rankvo.dll
+RankQuote.dll
 add UnleashedVoice.hmm
-add core_BGM\Sound\SNG19_JNG.cpk
-add core_BGM\Sound\SNG19_JNG.csb
+delete core_BGM\Sound\SNG19_JNG.cpk
+delete core_BGM\Sound\SNG19_JNG.csb
 add core_eng\disk\bb\cmn100.ar.00
 add core_eng\disk\bb\cmn100.ar.01
 add core_eng\disk\bb\cmn100.ar.02

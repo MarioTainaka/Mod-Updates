@@ -1,3 +1,10 @@
+## The Real Sonic Unleashed EXP Remastered Version 2.0.8
+
+- Added Support for the Sonic Unleashed HUD by PT Kickass.
+
+- Removed Result Music Option.
+
+
 ## The Real Sonic Unleashed EXP Remastered Version 2.0.7
 
 - Added QTE SFX from Sonic Unleashed for tricks.
