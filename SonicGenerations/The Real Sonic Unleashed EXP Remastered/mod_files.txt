@@ -1,4 +1,5 @@
-RankQuote.dll
+delete Rankvo.dll
+add RankQuote.dll
 add UnleashedVoice.hmm
 delete core_BGM\Sound\SNG19_JNG.cpk
 delete core_BGM\Sound\SNG19_JNG.csb
