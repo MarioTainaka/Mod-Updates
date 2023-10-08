@@ -1,0 +1,12 @@
+add raw/sound/giant01_sound/bgm_boss01.acb
+add raw/sound/giant01_sound/bgm_boss01.awb
+add raw/sound/dragon01_sound/bgm_boss02.acb
+add raw/sound/dragon01_sound/bgm_boss02.awb
+add raw/sound/knight01_sound/bgm_boss03.acb
+add raw/sound/knight01_sound/bgm_boss03.awb
+add raw/sound/rifle01_sound/bgm_boss04.acb
+add raw/sound/rifle01_sound/bgm_boss04.awb
+add raw/sound/riflebeast_sound/bgm_boss05.acb
+add raw/sound/riflebeast_sound/bgm_boss05.awb
+
+
